@@ -20,3 +20,6 @@ Lab3-Timp:
 		Prog 1: Schitatb kolichestvo elementov n, schitatb n celochisl elementov, otsortirovatb massiv rascheskoi i vivesti.
 		Prog 2: Schitatb kolichestvo elementov n, schitatb n celochisl ele
 mentov, otsortirovatb massiv sortirovkoi Shella i vivesti.
+	Practice 7:
+		Prog 1: Schitatb kolichestvo elementov n, schitatb n celochisl elementov, otsortirovatb massiv sortirovkoi qsort i vivesti.
+		Prog 2: Schitatb kolichestvo elementov n, schitatb n celochisl elementov, otsortirovatb massiv piramidalnoi sortirovkoi i vivesti.
