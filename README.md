@@ -12,3 +12,7 @@ Lab3-Timp:
 		Prog 2: Sozdanie dvuxsvyaznogo spiska - dinamich structura dannix, sost iz uzlov, soderzh dannie i ssilki na sled i predidush uzli spiska.
         Practice 4:
                 Prog: Neobxodimo realizovatb structuri dannih i functions dlya raboti s binarnim derevom poiska.
+        Practice 5:
+                Prog 1: Realizovatb obhod dereva v shirinu.
+                Prog 2: Realizovatb pryamoi obhod dereva.
+
